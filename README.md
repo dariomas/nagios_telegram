@@ -1,2 +1,5 @@
 # nagios_telegram
-Nagios notifications via Telegram
+Simple Nagios notifications via Telegram
+
+Influenced by datamachine/twx.botapi
+
